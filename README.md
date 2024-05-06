@@ -11,3 +11,5 @@ Note: Ensure you have at least 20 GB of GPU memory.
 4. Upload the desired research paper in the form of a pdf file at the top of the screen.
 5. Give the file a name (this field is optional and can be ignored).
 6. Click Send and wait 2-3 minutes for the model to respond!
+
+![tenor](https://github.com/tarunvarma17/Research-Quest/assets/82210612/0210ed91-3b3f-41ca-8612-810f72fbb5fa)
