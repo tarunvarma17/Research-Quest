@@ -27,7 +27,7 @@ from langchain.output_parsers import ResponseSchema
 from langchain.output_parsers import StructuredOutputParser
 from langchain.prompts import ChatPromptTemplate
 ################################# ENVIRONMENTAL VARIABLES #################################
-GOOGLE_API_KEY='AIzaSyDfxSN9QK3yK595HLxp0_1ZHGz6Y8lVQp8'
+GOOGLE_API_KEY= #Insert your API key here
 article_name = "Attention Is All You Need"
 MODEL_NAME = "TheBloke/laser-dolphin-mixtral-2x7b-dpo-GPTQ"
 MODEL_TOKENIZER = "TheBloke/laser-dolphin-mixtral-2x7b-dpo-GPTQ"
